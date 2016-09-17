@@ -1,5 +1,5 @@
 body{
-    background: url(https://tax.thomsonreuters.com/wp-content/uploads/2016/02/TIRE-Image.jpg);
+    background-image: url(images/tires.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -48,5 +48,16 @@ li a.active {
     background-color: #4CAF50;
 }
 #tire {
-    color: red;
+    color: black;
+    background: lightgray;
+    position: absolute;
+    right: 010px;
+    width: 250px;
+    border: 6px solid darkorange;
+}
+#store{
+     position: relative;
+     top: 15%;
+    left: 30px;
+    border: 3px solid #73AD21;
 }
