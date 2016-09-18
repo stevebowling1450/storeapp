@@ -1,6 +1,6 @@
 body{
     background-image: url(images/tires.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-size: 100%;
 }
 
@@ -8,7 +8,9 @@ body{
 .org{
     color: darkorange;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
      }
+
      h1 {
          font-size: 44px;
      }
@@ -51,13 +53,36 @@ li a.active {
     color: black;
     background: lightgray;
     position: absolute;
+    top: 500px;
     right: 010px;
     width: 250px;
     border: 6px solid darkorange;
 }
 #store{
      position: relative;
-     top: 15%;
-    left: 30px;
+     top: 75px;
+    left: 150px;
     border: 3px solid #73AD21;
+}
+#services {
+    color: darkorange;
+    float: right;
+    
+}
+ol {
+    font-size: 30px;
+}
+footer {
+    position: relative;
+    top: 200px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  font-style: italic;
+
+}#img2 {
+    width: 80%;
+    display: block;
+    margin: auto;
 }
