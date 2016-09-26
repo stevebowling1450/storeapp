@@ -83,4 +83,5 @@ Listing weapons for Conan:
 Conan attacks with his axe                                                                                                                                                                                   
 He hits for 17 damage                                                                                                                                                                                        
 Gandalf attacks with his STAFF                                                                                                                                                                               
-He hits for 3 damage    */     
+He hits for 3 damage         
+ */
